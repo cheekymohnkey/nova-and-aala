@@ -1,10 +1,10 @@
 {
   "format": "pdf-creation-web-comic-v1",
-  "generatedAt": "2026-07-22T07:22:32.309Z",
+  "generatedAt": "2026-07-23T11:51:45.205Z",
   "title": "Nova and Aala",
   "description": "Read Nova and Aala as a continuous web comic.",
-  "episodeCount": 8,
-  "frameCount": 153,
+  "episodeCount": 9,
+  "frameCount": 198,
   "episodes": [
     {
       "number": 1,
@@ -623,8 +623,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-01-The-Thinning.pdf",
-        "size": 69132324,
-        "sizeLabel": "69.1 MB",
+        "size": 6633194,
+        "sizeLabel": "6.6 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-01-The-Thinning.pdf"
       }
     },
@@ -1033,8 +1033,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-02-Between-Assignments.pdf",
-        "size": 36930187,
-        "sizeLabel": "36.9 MB",
+        "size": 3985950,
+        "sizeLabel": "4.0 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-02-Between-Assignments.pdf"
       }
     },
@@ -1686,8 +1686,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-03-The-Moonpetal-Errand.pdf",
-        "size": 73710370,
-        "sizeLabel": "73.7 MB",
+        "size": 7370861,
+        "sizeLabel": "7.4 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-03-The-Moonpetal-Errand.pdf"
       }
     },
@@ -2417,8 +2417,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-04-The-Shadowthread-Corruption.pdf",
-        "size": 73399749,
-        "sizeLabel": "73.4 MB",
+        "size": 8982903,
+        "sizeLabel": "9.0 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-04-The-Shadowthread-Corruption.pdf"
       }
     },
@@ -3124,8 +3124,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-05-The-Moonwell-s-Memory.pdf",
-        "size": 75611180,
-        "sizeLabel": "75.6 MB",
+        "size": 8870970,
+        "sizeLabel": "8.9 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-05-The-Moonwell-s-Memory.pdf"
       }
     },
@@ -3782,8 +3782,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-06-The-Long-Road-to-Dolanaar.pdf",
-        "size": 70965431,
-        "sizeLabel": "71.0 MB",
+        "size": 7414472,
+        "sizeLabel": "7.4 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-06-The-Long-Road-to-Dolanaar.pdf"
       }
     },
@@ -4185,8 +4185,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-07-The-Vision-of-Teldrassil.pdf",
-        "size": 48831558,
-        "sizeLabel": "48.8 MB",
+        "size": 4969935,
+        "sizeLabel": "5.0 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-07-The-Vision-of-Teldrassil.pdf"
       }
     },
@@ -4851,9 +4851,1541 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-08-Ashes-of-Starbreeze.pdf",
-        "size": 67793985,
-        "sizeLabel": "67.8 MB",
+        "size": 7801645,
+        "sizeLabel": "7.8 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-08-Ashes-of-Starbreeze.pdf"
+      }
+    },
+    {
+      "number": 9,
+      "title": "Nova and Aala 09 - The Barrow Den",
+      "subtitle": "Nova and Aala 09 - The Barrow Den",
+      "slug": "nova-and-aala-09-the-barrow-den",
+      "sourceName": "Nova and Aala/Nova and Aala 09 - The Barrow Den/Nova-and-Aala-09-The-Barrow-Den.pdf-project.json",
+      "frameCount": 45,
+      "pages": [
+        {
+          "number": 1,
+          "storyFunction": "Bridge: time passes, word arrives",
+          "panels": [
+            {
+              "id": "43c3d009-0998-4f4a-b50f-f6a499c2f37f",
+              "title": "Two Days of Waiting",
+              "caption": "Two days passed since their warning reached Athridas. Long enough that the new gifts no longer felt so strange in hand.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "Getting the hang of this yet?",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 69.41864943589967,
+                  "bubbleY": 41.89185484258015,
+                  "bubbleWidth": 29.29715560190013,
+                  "anchorX": 73.36752965328468,
+                  "anchorY": 34.67406321990784
+                },
+                {
+                  "speaker": "nova",
+                  "text": "Getting there.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 3.648950729927005,
+                  "bubbleY": 59.75507834997121,
+                  "bubbleWidth": 18,
+                  "anchorX": 32.40258361936624,
+                  "anchorY": 35.00710309080438
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/001.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.47333333333333333
+              }
+            },
+            {
+              "id": "fa729ce6-3930-4719-9eca-e7da6d5c3492",
+              "title": "The Scout's Report",
+              "caption": "Then a Sentinel scout reached Dolanaar, breathless, with word from the west.",
+              "captionPlacement": "upper-left-overlay",
+              "dialogueLines": [
+                {
+                  "speaker": "athridas",
+                  "text": "Then we've no more time to spare. Nova, Aala, with me.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 51.02044954234735,
+                  "bubbleY": 8.792666538683045,
+                  "bubbleWidth": 48.3017610937319,
+                  "anchorX": 43.64151885282702,
+                  "anchorY": 25.509441291514687
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/002.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5066666666666666,
+                "width": 0.94,
+                "height": 0.47333333333333333
+              }
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "storyFunction": "Briefing: the dual task",
+          "panels": [
+            {
+              "id": "a5553e8a-cb7e-431f-9d17-be1038863861",
+              "title": "Two Tasks, One Ritual",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "athridas",
+                  "text": "I've spent these two days consulting the ritual itself. The Barrow Den is worse than we feared. I need the Relics of Wakening from its sacred chests, but even blessed, the ritual won't take unless Ursal himself falls.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 62,
+                  "anchorX": 27.713040203916115,
+                  "anchorY": 22.940100820401305
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/003.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.5511999999999999
+              }
+            },
+            {
+              "id": "bd6cc9f3-d9d7-4595-af3a-36af5ab154f6",
+              "title": "The Relics Named",
+              "caption": "Four relics, four sacred chests: the Raven Claw Talisman, the Black Feather Quill, the Sapphire of Sky, and the Rune of Nesting.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "Four chests, one furbolg-infested den. We'll manage, we always do.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 15,
+                  "bubbleY": 62,
+                  "bubbleWidth": 55,
+                  "anchorX": 40,
+                  "anchorY": 48
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/004.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            },
+            {
+              "id": "9db5f82b-9319-4d1d-82d3-0a882361073b",
+              "title": "Into the Den",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Relics and Ursal. We won't come back until both are done.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 62.597718224493434,
+                  "anchorX": 48.93607389030839,
+                  "anchorY": 31.523535428022726
+                },
+                {
+                  "speaker": "athridas",
+                  "text": "Go carefully. And go together.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 38.45775892804088,
+                  "bubbleY": 85.21516277973274,
+                  "bubbleWidth": 61.26542166795413,
+                  "anchorX": 75.64205760888942,
+                  "anchorY": 40.14389489753674
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/005.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "storyFunction": "Travel, rising tension",
+          "panels": [
+            {
+              "id": "29101b76-ab67-42e7-bd18-648ff2be359b",
+              "title": "West Toward Ban'ethil",
+              "caption": "West of Dolanaar, toward Ban'ethil Barrow Den.",
+              "captionPlacement": "upper-left-overlay",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Still trying to work out the kinks in this new bauble. It's working better than yesterday at least.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 45.91631908237748,
+                  "bubbleY": 0,
+                  "bubbleWidth": 47.67610937318967,
+                  "anchorX": 39.53582426355579,
+                  "anchorY": 28.958518255856514
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 55,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/006.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.3111111111111111
+              }
+            },
+            {
+              "id": "8a0b4f06-4729-488a-b1f6-62b1c74480f6",
+              "title": "Fel-Moss on the Trail",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "More moss. The trail's thick with it, we're close.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 1.6717455610589762,
+                  "bubbleY": 0.9477288845168435,
+                  "bubbleWidth": 45.27674814983779,
+                  "anchorX": 31.82831961099525,
+                  "anchorY": 22.144222410322104
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/007.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.34444444444444444,
+                "width": 0.94,
+                "height": 0.3111111111111111
+              }
+            },
+            {
+              "id": "f6396620-5c9b-411e-9340-d17a5705708d",
+              "title": "The Den Mouth",
+              "caption": "Ban'ethil Barrow Den. Once a sanctuary. Now a wound in the hillside.",
+              "captionPlacement": "upper-left-overlay",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "Stay close.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 9.74020337301587,
+                  "bubbleY": 35.47028275988286,
+                  "bubbleWidth": 18,
+                  "anchorX": 28.388323611835244,
+                  "anchorY": 56.83445049414349
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/008.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.6688888888888889,
+                "width": 0.94,
+                "height": 0.3111111111111111
+              }
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "storyFunction": "Tarindrella's reunion",
+          "panels": [
+            {
+              "id": "e042db44-9ddc-446a-ba34-bad9630d1393",
+              "title": "A Familiar Silhouette",
+              "caption": "Tarindrella, the dryad who once fought beside them against Githyiss stood waiting at the den's edge, exactly where she said she'd be.",
+              "captionPlacement": "upper-left-overlay",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/009.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.5511999999999999
+              }
+            },
+            {
+              "id": "8f4e2e66-34ec-4d90-84de-75c48ed8d0f0",
+              "title": "Of Course She's Here",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Tarindrella! You found the stronghold.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 48.16270463188543,
+                  "anchorX": 28.390159843127933,
+                  "anchorY": 28.88892572420019
+                },
+                {
+                  "speaker": "tarindrella",
+                  "text": "I said I would come once I found it. Ban'ethil is worse than I feared.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 21.198011059777766,
+                  "bubbleY": 56.60779988615194,
+                  "bubbleWidth": 50,
+                  "anchorX": 64.73183195674135,
+                  "anchorY": 29.589194819625565
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/010.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            },
+            {
+              "id": "bf470d96-4980-4e7f-8164-648f9b63826e",
+              "title": "Three Again",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "Feels like old times already. Good to have you back.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 58.24514231386298,
+                  "anchorX": 41.50692257412799,
+                  "anchorY": 23.272174138664646
+                },
+                {
+                  "speaker": "tarindrella",
+                  "text": "I could say the same. Shall we?",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 62.80493307683166,
+                  "bubbleY": 0,
+                  "bubbleWidth": 37.19506692316834,
+                  "anchorX": 72.47893331451661,
+                  "anchorY": 18.564723055958048
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 49.93790757200984,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/011.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "storyFunction": "Descent + combat-lite montage",
+          "panels": [
+            {
+              "id": "b377419c-2e92-4c68-aff5-41382649339a",
+              "title": "Into the Lower Den",
+              "caption": "The Lower Den swallowed the daylight almost at once.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "tarindrella",
+                  "text": "Watch the corners. They've grown bolder since I was last here.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 8.632978416262723,
+                  "bubbleWidth": 28.19326943074455,
+                  "anchorX": 49.8679706533365,
+                  "anchorY": 15.483273391005952
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 100,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/012.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            },
+            {
+              "id": "48eff53d-217b-4cf2-9953-3f6bc48059ad",
+              "title": "Furbolg Resistance",
+              "caption": "Nova's frostbolt cracked past one attacker while a pulse of Aala's purifying light staggered another.",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Furbolg, incoming!",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 45,
+                  "anchorX": 31.46245877651673,
+                  "anchorY": 25.994845159819548
+                },
+                {
+                  "speaker": "tarindrella",
+                  "text": "I'll hold the flank.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 44.005288490106366,
+                  "bubbleY": 3.5883394425513533,
+                  "bubbleWidth": 40.69871018777111,
+                  "anchorX": 56.074087141244284,
+                  "anchorY": 23.205413707045498
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/013.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.02,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            },
+            {
+              "id": "d9aee315-28ed-4c78-9649-8d28ed40c2bc",
+              "title": "A Scratch",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "'Tis but a scratch.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 42,
+                  "anchorX": 23.20269790985798,
+                  "anchorY": 27.88090624400077
+                },
+                {
+                  "speaker": "tarindrella",
+                  "text": "That claw was corrupted. We can't just shrug it off.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 64.9431645151227,
+                  "bubbleY": 59.76220993712805,
+                  "bubbleWidth": 35.0568354848773,
+                  "anchorX": 57.74686552974033,
+                  "anchorY": 33.377884130831255
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/014.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5066666666666666,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            },
+            {
+              "id": "3a0276d9-9f75-4b39-b43f-d824f7795946",
+              "title": "Cleared",
+              "caption": "The furbolg scattered, but the fight left its mark.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "Once we've got real light and a moment's peace, I'll see to that properly.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 48.27288646087111,
+                  "bubbleY": 58.88419607290267,
+                  "bubbleWidth": 51.72711353912889,
+                  "anchorX": 46.594689598312435,
+                  "anchorY": 33.39629052481283
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/015.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.5066666666666666,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "storyFunction": "Relic retrieval + care beat",
+          "panels": [
+            {
+              "id": "5aa45c95-acfe-4b3f-8bf4-3ac36d168d26",
+              "title": "The Sacred Chests",
+              "caption": "Four sacred chests, exactly as Athridas described, hidden deep in the Lower Den.",
+              "captionPlacement": "upper-left-overlay",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/016.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.376
+              }
+            },
+            {
+              "id": "c36d10fc-4b58-43d2-86bf-8f0f0c6b7757",
+              "title": "Raven Claw Talisman",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "One down. The Raven Claw Talisman.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 10,
+                  "bubbleY": 66,
+                  "bubbleWidth": 55,
+                  "anchorX": 35,
+                  "anchorY": 45
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/017.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.4093333333333333,
+                "width": 0.45999999999999996,
+                "height": 0.2786666666666666
+              }
+            },
+            {
+              "id": "878e82e2-85e9-47b1-afd6-1122b7fcfd11",
+              "title": "Sapphire and Rune",
+              "caption": "Two more chests, two more relics.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/018.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.4093333333333333,
+                "width": 0.45999999999999996,
+                "height": 0.2786666666666666
+              }
+            },
+            {
+              "id": "3675a46b-9bcb-4609-9c5e-76c0adc291c5",
+              "title": "The Unused Vial",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "This is what I've been saving it for. Hold still.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 10,
+                  "bubbleY": 0,
+                  "bubbleWidth": 90,
+                  "anchorX": 45.62826074038861,
+                  "anchorY": 22.608468032196846
+                },
+                {
+                  "speaker": "nova",
+                  "text": "The moonpetal lily antidote, thank goodness we still have it.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 60.20114088775328,
+                  "bubbleY": 63.457391429716644,
+                  "bubbleWidth": 39.79885911224672,
+                  "anchorX": 70.27683147394379,
+                  "anchorY": 39.42016893936915
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 100,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/019.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.7013333333333333,
+                "width": 0.45999999999999996,
+                "height": 0.2786666666666666
+              }
+            },
+            {
+              "id": "5fae35af-c7d5-4235-97fb-9208e0f916cc",
+              "title": "Black Feather Quill",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "tarindrella",
+                  "text": "Wait, what's this? A shaman's totem.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 27.875997162635926,
+                  "bubbleY": 0,
+                  "bubbleWidth": 72.12400283736407,
+                  "anchorX": 64.22760005050804,
+                  "anchorY": 24.509125404914602
+                },
+                {
+                  "speaker": "nova",
+                  "text": "Better bring it. Might matter later.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 62.65571335195199,
+                  "bubbleY": 59.315228060990776,
+                  "bubbleWidth": 34.1544339384396,
+                  "anchorX": 40.78162323964585,
+                  "anchorY": 33.02443547133696
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 100,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/020.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.7013333333333333,
+                "width": 0.45999999999999996,
+                "height": 0.2786666666666666
+              }
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "storyFunction": "Oben's ghost, the terrible choice",
+          "panels": [
+            {
+              "id": "bfeb0ae7-ef0d-4aaf-b666-01dfd6c3e157",
+              "title": "A Ghost in the Den",
+              "caption": "A translucent figure drifted from the shadows, a night elf druid, both there and... not.",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "oben",
+                  "text": "Please don't be afraid. I need your help more than you know.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0.2835520272717815,
+                  "bubbleWidth": 30.91058403648464,
+                  "anchorX": 47.34410745587973,
+                  "anchorY": 13.802032123266404
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/021.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            },
+            {
+              "id": "cdb55ada-1de6-4ceb-aac3-0a8e7b412a91",
+              "title": "The Shaman's Charm",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "oben",
+                  "text": "That charm, was used in the shaman's ritual. I can sense it's evil.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 35.787535652742285,
+                  "anchorX": 52.29147602353081,
+                  "anchorY": 25.2275451942317
+                },
+                {
+                  "speaker": "nova",
+                  "text": "This is what separated you from your body?",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 2.245935215996197,
+                  "bubbleY": 73.86559675360519,
+                  "bubbleWidth": 50,
+                  "anchorX": 25.530965892209878,
+                  "anchorY": 45.99355364083811
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 100,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/022.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.02,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            },
+            {
+              "id": "a29fc594-c901-420e-a8c3-8a488bea948c",
+              "title": "What Must Be Done",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "oben",
+                  "text": "My own body walks these halls, animated and empty. To free me, you must still it, and only then use the charm upon it.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 9.501881843065693,
+                  "bubbleY": 1.296207806167836,
+                  "bubbleWidth": 38.30074051746611,
+                  "anchorX": 54.93805486762832,
+                  "anchorY": 16.33211992603209
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 0,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/023.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.4288,
+                "width": 0.94,
+                "height": 0.5511999999999999
+              }
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "storyFunction": "The mercy, the release",
+          "panels": [
+            {
+              "id": "be06ad0b-f38d-4ce6-bf01-2f11f23be028",
+              "title": "A Mercy, Not a Kill",
+              "caption": "There was no fight in it. Only a slow, deliberate act of release.",
+              "captionPlacement": "upper-left-overlay",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "The binding's arcane, laced through the whole body. I can see where it holds.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 4.158554103667014,
+                  "bubbleY": 7.498259684606768,
+                  "bubbleWidth": 37.0849943155486,
+                  "anchorX": 24.431794729753214,
+                  "anchorY": 22.638232291563703
+                },
+                {
+                  "speaker": "aala",
+                  "text": "Then let it go gently.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 77.82094159135674,
+                  "bubbleY": 56.69236135135581,
+                  "bubbleWidth": 22.17905840864326,
+                  "anchorX": 79.72954412148071,
+                  "anchorY": 34.04017243048005
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/024.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.5511999999999999
+              }
+            },
+            {
+              "id": "b1d4d85e-bcc8-4f26-bee7-e84ea19d4a84",
+              "title": "Free",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/025.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            },
+            {
+              "id": "790a7470-8e99-4c95-ab9e-d3663961e4f8",
+              "title": "Thank You",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "oben",
+                  "text": "Free, at last. My thanks to you both. May we meet again, in a kinder hour.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 33.93215394557015,
+                  "anchorX": 50.30787628498425,
+                  "anchorY": 12.454699754479172
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/026.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "storyFunction": "Deeper descent, Ursal briefing",
+          "panels": [
+            {
+              "id": "b468dffa-f993-4b5e-a631-7af8b6664e8e",
+              "title": "The Path to the Cleft",
+              "caption": "With the druid at peace behind them, the party proceeded into the den. The further they went, the corruption got thicker.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/027.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.3111111111111111
+              }
+            },
+            {
+              "id": "e87cf959-4d28-43c6-99c7-aa160baa091e",
+              "title": "Tarindrella's Warning",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "tarindrella",
+                  "text": "Ursal holds up in a place they call the Cleft, north from here. I've scouted the approach, he's not alone.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 10,
+                  "bubbleY": 0,
+                  "bubbleWidth": 90,
+                  "anchorX": 50.7502978000811,
+                  "anchorY": 21.395028825036597
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 74.0109043032052,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/028.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.34444444444444444,
+                "width": 0.94,
+                "height": 0.3111111111111111
+              }
+            },
+            {
+              "id": "25b18abe-b71b-4e41-908b-18ea3818ad00",
+              "title": "Readying for Ursal",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "This is it, then.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 19.833326997161397,
+                  "bubbleY": 0,
+                  "bubbleWidth": 18,
+                  "anchorX": 18.54429029443286,
+                  "anchorY": 18.653664897510982
+                },
+                {
+                  "speaker": "aala",
+                  "text": "Together, like always.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 7.852157647578494,
+                  "bubbleY": 56.504403825036604,
+                  "bubbleWidth": 23.710620691403083,
+                  "anchorX": 30.249333796779048,
+                  "anchorY": 26.29097273060029
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 0,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/029.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.6688888888888889,
+                "width": 0.94,
+                "height": 0.3111111111111111
+              }
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "storyFunction": "Ursal fight, building intensity",
+          "panels": [
+            {
+              "id": "2ed76446-195e-4487-9d9a-2fd5204a3a80",
+              "title": "Into the Cleft",
+              "caption": "The Cleft opened into a wide hollow, and there, amid broken furbolg banners, Ursal the Mauler waited.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/030.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.3176
+              }
+            },
+            {
+              "id": "1f937a84-dd75-4a45-82ea-4e20fd2f926c",
+              "title": "Tarindrella Holds the Line",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "tarindrella",
+                  "text": "Go! I'll keep the rest off you!",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 45,
+                  "bubbleY": 0,
+                  "bubbleWidth": 55,
+                  "anchorX": 43.93655001986887,
+                  "anchorY": 23.806706574975586
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/031.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.3509333333333334,
+                "width": 0.3448,
+                "height": 0.3078666666666667
+              }
+            },
+            {
+              "id": "600ed5c1-e359-44a1-a244-8415e5b568d4",
+              "title": "Nova's Gambit",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Polymorph sheep. Fingers crossed, I've only managed this twice before!",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0,
+                  "bubbleWidth": 44.122544600493455,
+                  "anchorX": 29.952035935424178,
+                  "anchorY": 33.563888128495755
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/032.webp",
+              "geometry": {
+                "x": 0.39480000000000004,
+                "y": 0.3509333333333334,
+                "width": 0.5751999999999999,
+                "height": 0.3078666666666667
+              }
+            },
+            {
+              "id": "55f5106b-e228-4f6e-a32d-e8eefe412f32",
+              "title": "Aala's Cry",
+              "caption": "A wave of dread rolled outward, and the last of the furbolg fled.",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "Begone, all of you!",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 13.312909760019792,
+                  "bubbleY": 0,
+                  "bubbleWidth": 68.69885731073725,
+                  "anchorX": 48.66132174666007,
+                  "anchorY": 32.471284883548876
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/033.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.6721333333333334,
+                "width": 0.2776,
+                "height": 0.3078666666666667
+              }
+            },
+            {
+              "id": "e0b29973-21b0-4402-9da5-f8859568fc50",
+              "title": "Ursal Charges",
+              "caption": "Ursal's charge came like an unstoppable landslide.",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/034.webp",
+              "geometry": {
+                "x": 0.32759999999999995,
+                "y": 0.6721333333333334,
+                "width": 0.2776,
+                "height": 0.3078666666666667
+              }
+            },
+            {
+              "id": "87e08b43-c16e-4ff1-ba22-a97ea11749b4",
+              "title": "An Opening",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "There, his club's stuck and guard's down!",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 28.491518478044906,
+                  "bubbleY": 76.30852820462549,
+                  "bubbleWidth": 64.68470594079078,
+                  "anchorX": 42.558811841843834,
+                  "anchorY": 49.74608161196768
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/035.webp",
+              "geometry": {
+                "x": 0.6252,
+                "y": 0.6721333333333334,
+                "width": 0.3448,
+                "height": 0.3078666666666667
+              }
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "storyFunction": "The decisive blow, immediate aftermath",
+          "panels": [
+            {
+              "id": "e5163c52-1ac6-4bfd-9fc9-28af4b604bb9",
+              "title": "The Decisive Blow",
+              "caption": "Frostbolt and holy fire converged, and the corruption's hold broke at last. Ursal the Mauler fell still.",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Together... now!",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 8.179856766307497,
+                  "bubbleY": 13.643236824466245,
+                  "bubbleWidth": 18.745800023172286,
+                  "anchorX": 19.474997465531224,
+                  "anchorY": 38.94491159166914
+                },
+                {
+                  "speaker": "aala",
+                  "text": "Smite!",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 80.91995785540493,
+                  "bubbleY": 35.16643172022751,
+                  "bubbleWidth": 18,
+                  "anchorX": 84.61523143320588,
+                  "anchorY": 48.770875547757896
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/036.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.5511999999999999
+              }
+            },
+            {
+              "id": "5118286b-f984-43c7-8df2-136978780763",
+              "title": "The Moss Recedes",
+              "caption": "As if a held breath finally released, the fel-moss around them began to wither and fade.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/037.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            },
+            {
+              "id": "e198c378-1e05-446d-8805-1348bd426d43",
+              "title": "It's Over",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "tarindrella",
+                  "text": "Is it done?",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 55,
+                  "bubbleY": 0,
+                  "bubbleWidth": 45,
+                  "anchorX": 72.16018294313388,
+                  "anchorY": 15.975341544193753
+                },
+                {
+                  "speaker": "nova",
+                  "text": "It wasn't easy but it's done. Ursal's spirit can rest now that it's free of the corruption.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 51.491278076534556,
+                  "bubbleY": 66.28574786103637,
+                  "bubbleWidth": 48.508721923465444,
+                  "anchorX": 50.90102093113079,
+                  "anchorY": 40.292435716092825
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/038.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "storyFunction": "Farewell + road coda",
+          "panels": [
+            {
+              "id": "752a3ff8-5ef6-4a2d-b93f-c644c3149537",
+              "title": "Tarindrella's Farewell",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "tarindrella",
+                  "text": "Ursal's fall doesn't end this. The corruption's root lies deeper still, I mean to find it.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0,
+                  "bubbleY": 0.0833518309656364,
+                  "bubbleWidth": 90,
+                  "anchorX": 61.493887040228174,
+                  "anchorY": 24.89704942767326
+                },
+                {
+                  "speaker": "nova",
+                  "text": "When you need us, you have but to call and we will be there. What you are doing is for the good of everyone.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 60.603394809554935,
+                  "bubbleY": 61.00745404588213,
+                  "bubbleWidth": 39.396605190445065,
+                  "anchorX": 45.48144664715669,
+                  "anchorY": 37.85189395757343
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 100,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/039.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            },
+            {
+              "id": "12be038c-8d70-45b0-85f9-b54234adf36a",
+              "title": "Until Next Time",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "aala",
+                  "text": "Feels wrong, watching her go alone.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 48.604469034107794,
+                  "bubbleY": 0.6656331739537342,
+                  "bubbleWidth": 49.63616562184325,
+                  "anchorX": 72.90650811099887,
+                  "anchorY": 20.486129025484743
+                },
+                {
+                  "speaker": "nova",
+                  "text": "She's not alone. She's got a whole forest listening for her.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 29.94481252599679,
+                  "bubbleY": 61.14212330821654,
+                  "bubbleWidth": 46.73083850793274,
+                  "anchorX": 33.460042931843844,
+                  "anchorY": 39.25294337324822
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/040.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.02,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            },
+            {
+              "id": "02185691-dbcd-4e55-af1c-3c32cbb26b7c",
+              "title": "The Road Cleared",
+              "caption": "A few scattered Gnarlpine ambushers still prowled the road home. This time, they were dealt with quickly, and without a scratch. Skills were improving.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Frost Nova, that should hold them while we slip by.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 0.08141173717986838,
+                  "bubbleY": 76.7329471827606,
+                  "bubbleWidth": 55,
+                  "anchorX": 61.32326638540614,
+                  "anchorY": 28.7741394101555
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/041.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5066666666666666,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            },
+            {
+              "id": "42e4747a-e1b3-4ad9-8648-c1d111260503",
+              "title": "Dolanaar in Sight",
+              "caption": "Dolanaar's lanterns glimmered ahead, and for a moment, the road felt almost easy again.",
+              "captionPlacement": "top-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "Let's see if I've gotten better at this.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 37.58468454750728,
+                  "bubbleY": 12.774353882703014,
+                  "bubbleWidth": 55,
+                  "anchorX": 35.65366331927031,
+                  "anchorY": 30.298379307448645
+                },
+                {
+                  "speaker": "aala",
+                  "text": "I have to say, it looks better than the Persistent Tavern Loaf of Longevity. How cool is that you mages can conjure food?",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 27.960468165072196,
+                  "bubbleY": 74.35893405644077,
+                  "bubbleWidth": 55,
+                  "anchorX": 72.26847072018539,
+                  "anchorY": 42.1261293554425
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/042.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.5066666666666666,
+                "width": 0.45999999999999996,
+                "height": 0.47333333333333333
+              }
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "storyFunction": "Return, closing warning",
+          "panels": [
+            {
+              "id": "1139a604-ed3d-4bbe-9368-5a3ef4c76bd0",
+              "title": "Relics and News",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "nova",
+                  "text": "All four relics, Ursal released, it's done.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 20.109520731954586,
+                  "bubbleY": 0.5096938733484893,
+                  "bubbleWidth": 39.08272506082725,
+                  "anchorX": 62.945784544809406,
+                  "anchorY": 21.85268684516161
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 50,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/043.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.02,
+                "width": 0.94,
+                "height": 0.5511999999999999
+              }
+            },
+            {
+              "id": "7aed6289-e7bc-4f4e-978b-f1ccc5777a08",
+              "title": "The Ritual Proceeds",
+              "caption": "",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "athridas",
+                  "text": "The Druids of the Talon may finally wake in peace. You've done what I feared impossible.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 34.08698340661953,
+                  "bubbleY": 79.55748931955658,
+                  "bubbleWidth": 64.02356052053004,
+                  "anchorX": 66.19982155059719,
+                  "anchorY": 37.985634947330894
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 0,
+              "imageFocusY": 45,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/044.webp",
+              "geometry": {
+                "x": 0.03,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            },
+            {
+              "id": "f13eb069-5ce2-47b4-9168-f48d70333371",
+              "title": "A Deeper Warning",
+              "caption": "Tarindrella was already following the scent, but that road belongs to another day.",
+              "captionPlacement": "bottom-gutter",
+              "dialogueLines": [
+                {
+                  "speaker": "athridas",
+                  "text": "Yet Ursal was not the root of this corruption. Somewhere in this forest, the true source still festers.",
+                  "captionSafe": true,
+                  "includeName": false,
+                  "bubbleType": "speech",
+                  "bubbleX": 24.360511431160496,
+                  "bubbleY": 65.04768286126637,
+                  "bubbleWidth": 71.69839822627607,
+                  "anchorX": 64.30144764989006,
+                  "anchorY": 39.52024792141034
+                }
+              ],
+              "imageFit": "cover",
+              "imageFocusX": 0,
+              "imageFocusY": 50,
+              "imagePath": "episodes/nova-and-aala-09-the-barrow-den/images/045.webp",
+              "geometry": {
+                "x": 0.51,
+                "y": 0.5845333333333332,
+                "width": 0.45999999999999996,
+                "height": 0.39546666666666663
+              }
+            }
+          ]
+        }
+      ],
+      "pdf": {
+        "filename": "Nova-and-Aala-09-The-Barrow-Den.pdf",
+        "size": 18253592,
+        "sizeLabel": "18.3 MB",
+        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-09-The-Barrow-Den.pdf"
       }
     }
   ]
