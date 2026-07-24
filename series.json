@@ -1,10 +1,12 @@
 {
   "format": "pdf-creation-web-comic-v1",
-  "generatedAt": "2026-07-23T11:51:45.205Z",
+  "generatedAt": "2026-07-24T10:26:18.217Z",
   "title": "Nova and Aala",
   "description": "Read Nova and Aala as a continuous web comic.",
   "episodeCount": 9,
   "frameCount": 198,
+  "narrativeEpisodeCount": 0,
+  "narrativeImageCount": null,
   "episodes": [
     {
       "number": 1,
@@ -6383,8 +6385,8 @@
       ],
       "pdf": {
         "filename": "Nova-and-Aala-09-The-Barrow-Den.pdf",
-        "size": 18253592,
-        "sizeLabel": "18.3 MB",
+        "size": 18234616,
+        "sizeLabel": "18.2 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-09-The-Barrow-Den.pdf"
       }
     }
