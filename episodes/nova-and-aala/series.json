@@ -1,6 +1,6 @@
 {
   "format": "pdf-creation-web-comic-v1",
-  "generatedAt": "2026-07-24T11:00:07.845Z",
+  "generatedAt": "2026-07-24T10:59:27.197Z",
   "title": "Nova and Aala",
   "description": "Read Nova and Aala as a continuous web comic.",
   "episodeCount": 9,
@@ -729,19 +729,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-01-The-Thinning.pdf",
-        "size": 6633194,
-        "sizeLabel": "6.6 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-01-The-Thinning.pdf"
-      },
-      "narrativePdf": {
-        "filename": "Nova-and-Aala-01-The-Thinning-Fiction.pdf",
-        "size": 3966012,
-        "sizeLabel": "4.0 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-01-The-Thinning-Fiction.pdf"
-      }
+      ]
     },
     {
       "number": 2,
@@ -1147,13 +1135,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-02-Between-Assignments.pdf",
-        "size": 3985950,
-        "sizeLabel": "4.0 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-02-Between-Assignments.pdf"
-      }
+      ]
     },
     {
       "number": 3,
@@ -1802,13 +1784,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-03-The-Moonpetal-Errand.pdf",
-        "size": 7370861,
-        "sizeLabel": "7.4 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-03-The-Moonpetal-Errand.pdf"
-      }
+      ]
     },
     {
       "number": 4,
@@ -2535,13 +2511,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-04-The-Shadowthread-Corruption.pdf",
-        "size": 8982903,
-        "sizeLabel": "9.0 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-04-The-Shadowthread-Corruption.pdf"
-      }
+      ]
     },
     {
       "number": 5,
@@ -3244,13 +3214,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-05-The-Moonwell-s-Memory.pdf",
-        "size": 8870970,
-        "sizeLabel": "8.9 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-05-The-Moonwell-s-Memory.pdf"
-      }
+      ]
     },
     {
       "number": 6,
@@ -3904,13 +3868,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-06-The-Long-Road-to-Dolanaar.pdf",
-        "size": 7414472,
-        "sizeLabel": "7.4 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-06-The-Long-Road-to-Dolanaar.pdf"
-      }
+      ]
     },
     {
       "number": 7,
@@ -4309,13 +4267,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-07-The-Vision-of-Teldrassil.pdf",
-        "size": 4969935,
-        "sizeLabel": "5.0 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-07-The-Vision-of-Teldrassil.pdf"
-      }
+      ]
     },
     {
       "number": 8,
@@ -4977,13 +4929,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-08-Ashes-of-Starbreeze.pdf",
-        "size": 7801645,
-        "sizeLabel": "7.8 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-08-Ashes-of-Starbreeze.pdf"
-      }
+      ]
     },
     {
       "number": 9,
@@ -6511,13 +6457,7 @@
             }
           ]
         }
-      ],
-      "pdf": {
-        "filename": "Nova-and-Aala-09-The-Barrow-Den.pdf",
-        "size": 18234616,
-        "sizeLabel": "18.2 MB",
-        "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-09-The-Barrow-Den.pdf"
-      }
+      ]
     }
   ]
 }
