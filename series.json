@@ -1,6 +1,6 @@
 {
   "format": "pdf-creation-web-comic-v1",
-  "generatedAt": "2026-07-24T11:08:45.887Z",
+  "generatedAt": "2026-07-24T11:15:22.060Z",
   "title": "Nova and Aala",
   "description": "Read Nova and Aala as a continuous web comic.",
   "episodeCount": 9,
@@ -738,8 +738,8 @@
       },
       "narrativePdf": {
         "filename": "Nova-and-Aala-01-The-Thinning-Fiction.pdf",
-        "size": 3966012,
-        "sizeLabel": "4.0 MB",
+        "size": 4066703,
+        "sizeLabel": "4.1 MB",
         "url": "https://github.com/cheekymohnkey/nova-and-aala/releases/download/pdf-edition-current/Nova-and-Aala-01-The-Thinning-Fiction.pdf"
       }
     },
